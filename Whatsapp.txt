@@ -9,3 +9,5 @@ Hari Prasanth R
 4. send message
 
 last seen hide
+adding video call option
+adding audio call option
