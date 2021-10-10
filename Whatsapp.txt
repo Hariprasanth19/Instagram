@@ -1,0 +1,10 @@
+Hari Prasanth R
+
+1. create account
+
+2. upload profile picture
+
+3. update user name
+
+4. send message
+
